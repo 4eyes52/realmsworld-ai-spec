@@ -1,7 +1,7 @@
 # Specification for DAO Governance AI (RealmsWorld)
 
 ## 1. Purpose
-- Enhance governance for RealmsWorld by prioritizing transparency and boosting member engagement, while supporting multiple gaming products in development.
+- Enhance governance and communnity engagement for RealmsWorld by prioritizing transparency and boosting member engagement, while supporting multiple gaming products in development.
 
 ## 2. Core Features
 
